@@ -5,5 +5,6 @@ public class HelloWorld
        {
              // Ausgabe 3!
              System.out.println("3");
+	     //Aufgabe 4 Änderung von Vincent Sedlacek
        }
 }
